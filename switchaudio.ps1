@@ -13,7 +13,7 @@
 Get-ExecutionPolicy
 
 $devices = @(
-    "VXD-G324KP (2- NVIDIA High Definition Audio)",
+    # "VXD-G324KP (2- NVIDIA High Definition Audio)",
     "Smart M70D (2- NVIDIA High Definition Audio)",
     "Headset Earphone (HyperX Virtual Surround Sound)"
 )
