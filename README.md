@@ -1,4 +1,4 @@
-# Powershell script to switch between audio outputs. 
+# Powershell script to switch between audio outputs. Currently running in Windows 11 pro
 
 ## Description
 Powershell script to change audio output based on name of the outut device and the cmdlet "AudioDeviceCmdlets"
